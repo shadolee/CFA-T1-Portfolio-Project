@@ -20,7 +20,7 @@
 @import "font-awesome";
 
 .jumbotron {
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('peak.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('http://res.cloudinary.com/lees-cloudinary/image/upload/v1489531810/peak_keuaju.jpg');
 
   min-height: 600px;
   background-position: center;
@@ -46,12 +46,12 @@
 #about {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('peak.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('http://res.cloudinary.com/lees-cloudinary/image/upload/v1489531810/peak_keuaju.jpg');
   color: white;
 }
 
 #skills {
-  background-image: url('mountain.jpg');
+  background-image: url('http://res.cloudinary.com/lees-cloudinary/image/upload/v1489531807/mountain_e7ucim.png');
   padding-bottom: 40px;
   padding-top: 40px;
 }
@@ -179,7 +179,7 @@ h2:after {
 // }
 
 .block-projects {
-  background-image: url('blackfelt.png');
+  background-image: url('http://res.cloudinary.com/lees-cloudinary/image/upload/v1489531802/blackfelt_dsucgf.png');
   color: white;
   padding-bottom: 40px;
   padding-top: 40px;
@@ -198,7 +198,7 @@ body, html {
 }
 
 .bgimg {
-    background-image: url('mountain.jpg');
+    background-image: url('http://res.cloudinary.com/lees-cloudinary/image/upload/v1489531807/mountain_e7ucim.png');
     height: 100%;
     background-position: center;
     background-size: cover;
