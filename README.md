@@ -29,5 +29,8 @@ The navigation buttons are always on top so clearly outline the available sectio
 
 First was pen and paer wireframing to sketch out, roughly, what the site would look like and what would go where content wise.
 
+![screen shot 2017-03-14 at 8 40 47 pm](https://cloud.githubusercontent.com/assets/24615235/23894580/cb7d18a2-08f6-11e7-89ec-924c8f3d08b5.png)
+![image](https://cloud.githubusercontent.com/assets/24615235/23894654/13b18a90-08f7-11e7-8c5b-77b4757f4d40.png)
+
 
 
