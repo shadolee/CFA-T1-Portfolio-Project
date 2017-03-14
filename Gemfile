@@ -42,7 +42,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
 end
 
-group :production
+group :production do
   gem 'pg'
 end
 
